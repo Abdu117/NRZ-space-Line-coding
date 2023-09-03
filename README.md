@@ -11,7 +11,7 @@ The encoding process involves generating the NRZ (S) signal using Proteus simula
 
 ## Decoding circuit
 <img width="800" alt="Login Interface" src="https://github.com/Abdu117/NRZ-space-Line-coding/assets/101186125/654a8661-a285-4067-8eb7-3ace09155482">
-<img width="800" alt="Login Interface" src="![decode](https://github.com/Abdu117/NRZ-space-Line-coding/assets/101186125/579bc092-7de5-428c-a8bb-4e1eaa2358e9)">
+<img width="800" alt="Login Interface" src="https://github.com/Abdu117/NRZ-space-Line-coding/assets/101186125/579bc092-7de5-428c-a8bb-4e1eaa2358e9">
 
 ## Encoding + Decoding circuit
 <img width="800" alt="Login Interface" src="https://github.com/Abdu117/NRZ-space-Line-coding/assets/101186125/f8de6995-a57b-46d5-bebf-f2f1b4add64d">
